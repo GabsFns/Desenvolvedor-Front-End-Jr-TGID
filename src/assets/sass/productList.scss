@@ -1,0 +1,87 @@
+@use './global.module.scss' as * ;
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  min-width: 400px;
+  position: relative;
+}
+
+.modal-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.ContainerContentModal{
+    display: flex;
+    flex-direction: column;
+
+
+    ul{
+        display: flex;
+        flex-direction: column;
+
+
+
+
+
+        li{
+            display: flex;
+            justify-content: space-between;
+            gap: 50px;
+            list-style: none;
+            font-family: Poppins;
+        }
+    }
+
+    .sectionBtt{
+        display: flex;
+        gap: 10px;
+    
+        
+        button{
+            margin: 5px;
+            background-color: $primary-color;
+            border: none;
+        }
+    }
+
+
+}
+
+
+.BttCarrinho{
+    padding: 10px;
+    width: 120px;
+    border-radius: 20px;
+    background-color: $cor-1;
+    border: none;
+}

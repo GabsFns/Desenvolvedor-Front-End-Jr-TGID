@@ -1,0 +1,144 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook Dell Inspiron",
+      "descricao": "Notebook com Intel i5, 8GB RAM e 256GB SSD",
+      "preco": 3499.99,
+      "foto": "https://via.placeholder.com/300?text=Notebook+Dell"
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone Samsung Galaxy S21",
+      "descricao": "Smartphone com 128GB de armazenamento e câmera tripla",
+      "preco": 3999.00,
+      "foto": "https://via.placeholder.com/300?text=Galaxy+S21"
+    },
+    {
+      "id": 3,
+      "nome": "Cafeteira Elétrica Mondial",
+      "descricao": "Cafeteira com capacidade para 18 xícaras",
+      "preco": 129.90,
+      "foto": "https://via.placeholder.com/300?text=Cafeteira"
+    },
+    {
+      "id": 4,
+      "nome": "Mouse Gamer Redragon",
+      "descricao": "Mouse com 7200 DPI e iluminação RGB",
+      "preco": 159.99,
+      "foto": "https://via.placeholder.com/300?text=Mouse+Gamer"
+    },
+    {
+      "id": 5,
+      "nome": "Fone de Ouvido JBL",
+      "descricao": "Fone bluetooth com até 20 horas de bateria",
+      "preco": 299.00,
+      "foto": "https://via.placeholder.com/300?text=Fone+JBL"
+    },
+    {
+      "id": 6,
+      "nome": "Teclado Mecânico Corsair",
+      "descricao": "Teclado com switches Cherry MX e iluminação RGB",
+      "preco": 499.90,
+      "foto": "https://via.placeholder.com/300?text=Teclado+Corsair"
+    },
+    {
+      "id": 7,
+      "nome": "Monitor LG 24'' Full HD",
+      "descricao": "Monitor IPS com 75Hz de taxa de atualização",
+      "preco": 899.90,
+      "foto": "https://via.placeholder.com/300?text=Monitor+LG"
+    },
+    {
+      "id": 8,
+      "nome": "Geladeira Brastemp Frost Free",
+      "descricao": "375L, com compartimento extra frio",
+      "preco": 3499.00,
+      "foto": "https://via.placeholder.com/300?text=Geladeira"
+    },
+    {
+      "id": 9,
+      "nome": "Cadeira Gamer ThunderX3",
+      "descricao": "Cadeira ergonômica com ajuste de altura e reclinação",
+      "preco": 1399.00,
+      "foto": "https://via.placeholder.com/300?text=Cadeira+Gamer"
+    },
+    {
+      "id": 10,
+      "nome": "TV 50'' Samsung 4K",
+      "descricao": "Smart TV com HDR e Tizen OS",
+      "preco": 2799.00,
+      "foto": "https://via.placeholder.com/300?text=TV+Samsung"
+    },
+    {
+      "id": 11,
+      "nome": "Impressora HP DeskJet Ink Advantage",
+      "descricao": "Impressora multifuncional com conexão Wi-Fi",
+      "preco": 499.90,
+      "foto": "https://via.placeholder.com/300?text=Impressora+HP"
+    },
+    {
+      "id": 12,
+      "nome": "Console PlayStation 5",
+      "descricao": "Console de nova geração com 825GB SSD",
+      "preco": 4499.00,
+      "foto": "https://via.placeholder.com/300?text=PlayStation+5"
+    },
+    {
+      "id": 13,
+      "nome": "Liquidificador Arno Power Max",
+      "descricao": "6 lâminas, 15 velocidades e copo de 3,1L",
+      "preco": 189.90,
+      "foto": "https://via.placeholder.com/300?text=Liquidificador"
+    },
+    {
+      "id": 14,
+      "nome": "Aspirador de Pó Electrolux",
+      "descricao": "Alta potência e baixo consumo de energia",
+      "preco": 299.99,
+      "foto": "https://via.placeholder.com/300?text=Aspirador"
+    },
+    {
+      "id": 15,
+      "nome": "Relógio Smartwatch Amazfit Bip U",
+      "descricao": "Monitoramento de saúde e bateria de longa duração",
+      "preco": 359.90,
+      "foto": "https://via.placeholder.com/300?text=Smartwatch"
+    },
+    {
+      "id": 16,
+      "nome": "Roteador TP-Link Archer C6",
+      "descricao": "Wi-Fi dual band 1200Mbps com 4 antenas externas",
+      "preco": 229.99,
+      "foto": "https://via.placeholder.com/300?text=Roteador"
+    },
+    {
+      "id": 17,
+      "nome": "HD Externo Seagate 1TB",
+      "descricao": "Armazenamento portátil USB 3.0",
+      "preco": 369.90,
+      "foto": "https://via.placeholder.com/300?text=HD+Externo"
+    },
+    {
+      "id": 18,
+      "nome": "Batedeira Planetária Mondial",
+      "descricao": "Potente, com tigela de inox de 4L",
+      "preco": 349.00,
+      "foto": "https://via.placeholder.com/300?text=Batedeira"
+    },
+    {
+      "id": 19,
+      "nome": "Estabilizador SMS Progressive III",
+      "descricao": "Potência de 1200VA e 6 tomadas",
+      "preco": 239.00,
+      "foto": "https://via.placeholder.com/300?text=Estabilizador"
+    },
+    {
+      "id": 20,
+      "nome": "Tablet Samsung Galaxy Tab A7",
+      "descricao": "Tela de 10.4'', 32GB de memória interna",
+      "preco": 1299.00,
+      "foto": "https://via.placeholder.com/300"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Loja Online API",
+    "version": "1.0.0",
+    "description": "API fake para os produtos"
+  },
+  "paths": {
+    "/produtos": {
+      "get": {
+        "summary": "Listar todos os produtos",
+        "responses": {
+          "200": {
+            "description": "Lista de produtos"
+          }
+        }
+      }
+    }
+  }
+}
